@@ -1,5 +1,6 @@
 .env
 .venv/
+.venv
 pyspark_big_earth_net.egg-info
 .DS_Store
 *__cache__
