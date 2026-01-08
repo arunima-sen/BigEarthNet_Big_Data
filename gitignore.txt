@@ -1,6 +1,6 @@
 .env
 .venv/
-pyspark_fractal.egg-info/
+pyspark_big_earth_net.egg-info
 .DS_Store
 *__cache__
 *__pycache__
