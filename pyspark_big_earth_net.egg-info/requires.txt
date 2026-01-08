@@ -1,9 +1,0 @@
-pyspark==4.0.1
-numpy
-pandas
-matplotlib
-scipy
-ipykernel>=7.0.1
-python-dotenv
-loguru
-sparkmeasure
