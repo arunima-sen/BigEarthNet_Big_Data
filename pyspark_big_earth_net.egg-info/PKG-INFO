@@ -1,0 +1,16 @@
+Metadata-Version: 2.4
+Name: pyspark-big_earth_net
+Version: 0.1.0
+Summary: Big data processing and analysis of big earth net dataset using PySpark
+Author: Beatriz Peres, Arunima Sen
+Project-URL: Source, https://github.com/beatrizbsperes/BigEarthNet_Big_Data
+Requires-Python: ==3.13.5
+Requires-Dist: pyspark==4.0.1
+Requires-Dist: numpy
+Requires-Dist: pandas
+Requires-Dist: matplotlib
+Requires-Dist: scipy
+Requires-Dist: ipykernel>=7.0.1
+Requires-Dist: python-dotenv
+Requires-Dist: loguru
+Requires-Dist: sparkmeasure

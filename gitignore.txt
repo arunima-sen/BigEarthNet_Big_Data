@@ -1,0 +1,8 @@
+.env
+.venv/
+pyspark_fractal.egg-info/
+.DS_Store
+*__cache__
+*__pycache__
+*.parquet
+*.ipynb_checkpoints

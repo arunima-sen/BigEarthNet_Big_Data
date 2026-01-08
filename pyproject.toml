@@ -1,0 +1,31 @@
+[build-system]
+requires = ["setuptools", "wheel"]
+build-backend = "setuptools.build_meta"
+
+[project]
+name = "pyspark-big_earth_net"
+version = "0.1.0"
+description = "Big data processing and analysis of big earth net dataset using PySpark"
+requires-python = "==3.13.5"
+
+authors = [
+    { name = "Beatriz Peres" },
+    { name = "Arunima Sen" }
+]
+
+dependencies = [
+    "pyspark==4.0.1",
+    "numpy",
+    "pandas",
+    # "pyarrow",
+    "matplotlib",
+    "scipy",
+    # "dask>=2024.5.0",
+    "ipykernel>=7.0.1",
+    "python-dotenv",
+    "loguru",
+    "sparkmeasure"
+]
+
+[project.urls]
+Source = "https://github.com/beatrizbsperes/BigEarthNet_Big_Data"
